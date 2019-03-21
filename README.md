@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+very excited to learn on this platform
